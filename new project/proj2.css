@@ -1,0 +1,24 @@
+*{
+padding: 0;
+margin: 0;
+}
+#hi{
+    font-weight: bold;
+    text-align: center;
+    padding-top: 50px;
+}
+nav{
+
+}
+#container{
+    background-image: url(muthanga.jpg);
+    background-size: cover;
+    height: 100vh;
+
+}
+ul li{
+    float: right;
+    display: inline-block;
+    margin: 0  8px;
+}
+
